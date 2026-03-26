@@ -1,6 +1,6 @@
 .. warning::
-   This project is no longer maintained and has been superseded by Hyperbase
-   `https://hyperquest.ai/hyperbase <https://hyperquest.ai/hyperbase>`_. Please migrate to Hyperbase instead.
+   This project is no longer maintained and has been superseded by Hyperbase:
+   `https://hyperquest.ai/hyperbase <https://hyperquest.ai/hyperbase>`_. Please migrate to `Hyperbase <https://hyperquest.ai/hyperbase>`_ instead.
    The final Graphbrain code is archived at `https://github.com/graphbrain/graphbrain-archive <https://github.com/graphbrain/graphbrain-archive>`_
 
 .. note:: Read our publications and explore some use cases `here <https://graphbrain.net/pubs-cases.html>`_.
