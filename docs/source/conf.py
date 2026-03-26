@@ -113,6 +113,6 @@ html_favicon = '_static/favicon.png'
 # html_show_sourcelink = False
 
 rst_prolog = """
-:github_url: https://github.com/graphbrain/graphbrain
+:github_url: https://github.com/graphbrain/graphbrain-archive
 """
 html_show_sphinx = False
