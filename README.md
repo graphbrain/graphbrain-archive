@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > This project is no longer maintained and has been superseded by Hyperbase:
 > https://hyperquest.ai/hyperbase. Please migrate to [Hyperbase](https://hyperquest.ai/hyperbase) instead.
-> The final Graphbrain code is archived at https://github.com/graphbrain/graphbrain-archive
+> This repository is a read-only archive of the final Graphbrain code.
 
 Graphbrain is an Artificial Intelligence open-source software library and scientific research tool. Its aim is to facilitate automated meaning extraction and text understanding, as well as the exploration and inference of knowledge. It is part of socsemics, a research project funded by the European Research Council and focused on the fragmentation in online public spaces.
 
